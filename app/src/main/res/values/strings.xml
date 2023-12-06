@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Saper</string>
+    <string name="high_score">рекорд: 0</string>
+    <string name="score">счет: %1$d</string>
+    <string name="score_default">счет: %d</string>
+    <string name="high_score_text">рекорд: %1$d</string>
+    <string name="time">время: %d</string>
+</resources>

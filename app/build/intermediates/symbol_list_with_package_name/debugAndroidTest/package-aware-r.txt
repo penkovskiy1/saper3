@@ -1,0 +1,3 @@
+com.josejordan.minesweeper.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
